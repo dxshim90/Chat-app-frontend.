@@ -1,14 +1,9 @@
-import React from 'react';
+import React from "react";
 
 class User extends React.Component {
-
   render() {
-
-  return (
-    );
-
-  };
-};
-
+    return null;
+  }
+}
 
 export default User;
